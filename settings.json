@@ -1,0 +1,4 @@
+{
+  "GAN_train_batch_size": 16,
+  "Classifier_train_batch_size": 32
+}
